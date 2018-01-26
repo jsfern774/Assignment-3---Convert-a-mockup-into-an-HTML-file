@@ -1,0 +1,50 @@
+caption {
+    caption-side: top;
+    width: auto;
+    color: #b22222;
+    font-weight: 400;
+    font-size: 28px;
+    text-align: left;
+    margin-bottom: -20px;
+}
+
+table {
+    box-shadow: -1px 14px 30px 1px rgba(0,0,0,0.2);
+    font-family: sans-serif;
+}
+
+tr {
+    /* border-collapse: separate; */
+    border-bottom: 1px solid #d6d5d5;
+}
+
+th {
+    background-color: #b22222;
+    color: rgba(255, 255, 255, .8);
+    font-weight: lighter;
+}
+
+th, td {
+    padding: 15px 20px;
+}
+
+.Align-l {
+  text-align: left;
+}
+
+.Align-r {
+  text-align: right;
+}
+
+.grey {
+    background-color: #e7e6e6;
+}
+
+.center {
+  width:70%;
+  margin-left:15%;
+  margin-right:15%;
+  margin-top:15%;
+  margin-bottom:15%;
+  margin-top:25vh;
+}
